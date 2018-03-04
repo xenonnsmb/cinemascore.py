@@ -6,7 +6,7 @@ setup(
     author_email='git@xenonnsmb.com',
     version='0.1',
     packages=['cinemascore',],
-    license='MIT License',
+    license=open('LICENSE').read(),
     summary='A tiny Python library for getting Cinemascore movie grades.',
     url='https://github.com/xenonnsmb/cinemascore.py',
     long_description=open('README.md').read(),
