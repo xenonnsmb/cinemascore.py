@@ -3,6 +3,7 @@ from setuptools import setup
 setup(
     name='cinemascore.py',
     author='XenonNSMB',
+    author_email='git@xenonnsmb.com',
     version='0.1',
     packages=['cinemascore',],
     license='MIT License',
